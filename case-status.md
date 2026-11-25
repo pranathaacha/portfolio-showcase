@@ -2,6 +2,10 @@
 
 Case Status rollout
 
+[Try the interactive demo](https://itspranathmaacha.wixsite.com/pranath-aacha/client-updates-demo)
+
+*Change a fictional file’s milestone and share it into a sample client view. Every interaction stays in this demo.*
+
 Clients needed a clearer view of what was happening with their case.
 
 ## My work

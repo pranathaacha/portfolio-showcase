@@ -2,6 +2,10 @@
 
 University of the Pacific
 
+[Try the interactive demo](https://itspranathmaacha.wixsite.com/pranath-aacha/formula-one-demo)
+
+*Adjust the balance between race performance and audience fit, then build a shortlist of fictional drivers.*
+
 Which drivers would make a compelling sponsorship bet for PepsiCo?
 
 ## My work

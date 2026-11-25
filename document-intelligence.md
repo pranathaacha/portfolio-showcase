@@ -2,6 +2,10 @@
 
 Software engineering project
 
+[Try the interactive demo](https://itspranathmaacha.wixsite.com/pranath-aacha/document-intelligence-demo)
+
+*Choose a fictional invoice or edit the sample text. Extract its fields and check whether the totals reconcile.*
+
 A document-processing request should keep moving while the user gets on with their work.
 
 ## My work

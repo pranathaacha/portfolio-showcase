@@ -2,6 +2,10 @@
 
 Retail customer lifetime value
 
+[Try the interactive demo](https://itspranathmaacha.wixsite.com/pranath-aacha/customer-value-demo)
+
+*Compare customer segments, forecast sales over a chosen period, and save a fictional campaign audience.*
+
 Some customers buy once. Others change the economics of a whole category.
 
 ## My work

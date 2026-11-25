@@ -2,6 +2,10 @@
 
 Pre-launch booking platform
 
+[Try the interactive demo](https://itspranathmaacha.wixsite.com/pranath-aacha/escape-room-demo)
+
+*Pick a fictional room, session, and party size. Reserve seats and watch the remaining capacity change.*
+
 How should a booking calendar handle someone joining alone, sharing a session, or reserving an entire room?
 
 ## My work

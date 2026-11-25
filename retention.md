@@ -2,6 +2,10 @@
 
 Student retention capstone
 
+[Try the interactive demo](https://itspranathmaacha.wixsite.com/pranath-aacha/student-retention-demo)
+
+*Choose a fictional cohort and set adviser hours to see how many requested check-ins the team could cover.*
+
 Which factors were associated with students leaving the university?
 
 ## My work

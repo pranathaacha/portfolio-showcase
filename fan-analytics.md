@@ -2,6 +2,10 @@
 
 Pacific Tigers
 
+[Try the interactive demo](https://itspranathmaacha.wixsite.com/pranath-aacha/fan-analytics-demo)
+
+*Explore a sample water polo season. Compare game times and see which audiences fill the stands.*
+
 What brings fans to the pool, and what makes them come back?
 
 ## My work

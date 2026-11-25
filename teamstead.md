@@ -2,6 +2,10 @@
 
 Independent employee workspace
 
+[Try the interactive demo](https://itspranathmaacha.wixsite.com/pranath-aacha/teamstead-demo)
+
+*File a sample request, assign it to a team, and move it through the employee workspace.*
+
 A small business needs a place for the questions, requests, and updates that happen between meetings.
 
 ## My work

@@ -2,6 +2,10 @@
 
 Verzeo EdTech
 
+[Try the interactive demo](https://itspranathmaacha.wixsite.com/pranath-aacha/tutor-recruitment-demo)
+
+*Filter a fictional recruitment pipeline and advance applicants through screening, demo lessons, and onboarding.*
+
 A missed handoff can slow recruitment even when the candidate pipeline looks healthy.
 
 ## My work

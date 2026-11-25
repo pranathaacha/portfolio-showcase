@@ -2,6 +2,10 @@
 
 Employee lifecycle platform
 
+[Try the interactive demo](https://ppl-connect-showcase.vercel.app/)
+
+*Explore onboarding, employee requests, and team workflows in the PPL Connect showcase.*
+
 What happens between an accepted offer and an employee’s first 30 days?
 
 ## My work
@@ -14,7 +18,6 @@ TypeScript · Azure Functions · PostgreSQL · Entra ID
 
 ## Explore
 
-- [Public demo or case study](https://ppl-connect-showcase.vercel.app/)
 - [Public technical showcase](https://github.com/pranathaacha/ppl-connect-showcase)
 
 [Browse all projects](README.md)

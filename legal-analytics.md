@@ -2,6 +2,10 @@
 
 Paul Padda Law
 
+[Try the interactive demo](https://itspranathmaacha.wixsite.com/pranath-aacha/legal-operations-demo)
+
+*Filter a fictional caseload by month, source, and stage. Open a file to see which cases need review.*
+
 An intake lead, a case, and a marketing dollar each tell a different part of the same story.
 
 ## My work

@@ -2,6 +2,10 @@
 
 NBA RAPTOR analysis
 
+[Try the interactive demo](https://itspranathmaacha.wixsite.com/pranath-aacha/basketball-lineup-demo)
+
+*Compare fictional player impact, make a substitution, and see how the balance of your lineup changes.*
+
 Given a roster, which five players would you send onto the court?
 
 ## My work

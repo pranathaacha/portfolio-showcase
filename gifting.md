@@ -2,6 +2,10 @@
 
 Founder · Personalized gifting
 
+[Try the interactive demo](https://itspranathmaacha.wixsite.com/pranath-aacha/gift-studio-demo)
+
+*Choose products and packaging, set a price in rupees, and see the margin on your sample quote.*
+
 What makes a customer come back for their next gift?
 
 ## My work
