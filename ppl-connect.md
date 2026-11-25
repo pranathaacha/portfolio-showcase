@@ -1,0 +1,20 @@
+# PPL Connect
+
+Employee lifecycle platform
+
+What happens between an accepted offer and an employee’s first 30 days?
+
+## My work
+
+I mapped the handoffs with the COO, attorneys, and case managers, then designed and built onboarding, offboarding, requests, and administration. I owned the business rules, role-based access, testing, and rollout.
+
+## Tools and methods
+
+TypeScript · Azure Functions · PostgreSQL · Entra ID
+
+## Explore
+
+- [Public demo or case study](https://ppl-connect-showcase.vercel.app/)
+- [Public technical showcase](https://github.com/pranathaacha/ppl-connect-showcase)
+
+[Browse all projects](README.md)
